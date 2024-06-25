@@ -1,0 +1,30 @@
+h1{
+text-align: center;
+color:rgb(169, 5, 19);
+}
+h2[value="summary"]{
+    text-align: center;
+    color:darkred
+}
+*{
+    background-color:moccasin
+}
+.h2{
+    text-align:center;
+    color:darkred
+    
+}
+h2{
+    text-align: center;
+    color:rgb(169, 5, 19)
+    
+}
+.pin{
+    color:crimson
+}
+footer{
+    color: brown;
+}
+.list{
+    background-color:burlywood;
+}
